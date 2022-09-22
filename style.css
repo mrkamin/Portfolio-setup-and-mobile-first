@@ -35,6 +35,11 @@ header {
   padding: 1rem;
 }
 
+.log {
+  display: flex;
+  justify-content: space-between;
+}
+
 .menu {
   position: static;
   width: auto;
