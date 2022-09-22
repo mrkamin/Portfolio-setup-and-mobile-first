@@ -14,9 +14,9 @@
 
 👤 **Author1**
 
-- GitHub: [@githubhandle](https://github.com/munyite001)
-- Twitter: [@twitterhandle](https://twitter.com/emunyite)
-- LinkedIn: [LinkedIn](https://www.linkedin.com/in/emmanuel-munyite-68545023a/)
+- GitHub: [@githubhandle](https://github.com/mrkamin)
+- Twitter: [@twitterhandle](https://twitter.com/Mohamma63974237)
+- LinkedIn: [LinkedIn](https://www.linkedin.com/in/mohammad-rafi-amin-63b4319b/)
 
 ## 🤝 Contributing
 
