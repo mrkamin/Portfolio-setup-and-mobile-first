@@ -1,0 +1,135 @@
+* {
+  box-sizing: border-box;
+  margin: 0;
+  padding: 0;
+}
+
+html {
+  width: 100%;
+  height: 100%;
+}
+
+body {
+  width: 100%;
+  height: 100%;
+  font-size: 18px;
+}
+
+main {
+  width: 100%;
+  height: 100%;
+}
+
+.container {
+  width: 100%;
+  max-width: 450px;
+}
+
+header {
+  background-color: #3c3a39;
+  width: 100%;
+  height: 5rem;
+  display: flex;
+  justify-content: space-between;
+  align-items: flex-end;
+  padding: 1rem;
+}
+
+.log {
+  display: flex;
+  justify-content: space-between;
+}
+
+.menu {
+  position: static;
+  width: auto;
+  height: auto;
+}
+
+.logo-container p {
+  color: white;
+  font-size: 18px;
+  line-height: 24px;
+  font-weight: 700;
+  font-family: "Roboto", serif;
+}
+
+.time-style {
+  position: absolute;
+  width: 66.66px;
+  height: 50.34px;
+}
+
+.Group {
+  position: calc(23);
+  width: 66px;
+  height: 50px;
+}
+
+.home {
+  background-color: #1c1a19;
+  height: 100vh;
+  padding: 5rem 0 1rem 1rem;
+}
+
+.home h1 {
+  font-size: 50px;
+  color: #ff6b00;
+  font-family: "Crete Round", serif;
+  margin-bottom: 1rem;
+  letter-spacing: 0.37px;
+}
+
+.Home1 h1 {
+  font-size: 50px;
+  color: #ff6b00;
+  font-family: "Crete Round", serif;
+  margin-bottom: 1rem;
+  letter-spacing: 0.37px;
+}
+
+.home h2 {
+  font-family: "Roboto", serif;
+  font-weight: 700;
+  font-size: 24px;
+  line-height: 32px;
+  color: white;
+  margin-bottom: 0.5rem;
+}
+
+.home p {
+  font-family: "Poppins", serif;
+  font-size: 16px;
+  line-height: 24px;
+  font-weight: 400;
+  color: white;
+  max-width: 327px;
+}
+
+.social {
+  display: flex;
+  justify-content: space-between;
+  width: 100%;
+  margin-top: 0.5rem;
+}
+
+.social-icons {
+  display: flex;
+}
+
+.illustration {
+  margin-left: auto;
+  position: relative;
+  bottom: 200px;
+}
+
+.illustration img {
+  width: 100%;
+}
+
+@media (min-width: 700px) {
+  .container {
+    margin-right: auto;
+    margin-left: auto;
+  }
+}
