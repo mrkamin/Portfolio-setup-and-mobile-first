@@ -46,7 +46,7 @@
 
 ## 🚀 Live Demo <a name="live-demo"></a>
 
- - Live Demo: [netlify](https://mrkamin.github.io/Portfolio-setup-and-mobile-first/)
+ - Live Demo: [Githup Pages](https://mrkamin.github.io/Portfolio-setup-and-mobile-first/)
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
